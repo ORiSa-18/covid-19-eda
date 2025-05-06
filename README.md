@@ -24,4 +24,4 @@ The dataset used is from [Our World in Data](https://covid.ourworldindata.org/):
 - Python
 - Pandas
 - Matplotlib
-- Google Colab (optional for running)
+- Google Colab (for running)
